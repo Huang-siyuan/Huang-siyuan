@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Huang-siyuan
-- 👀 I’m interested in Java, Spring, Microservice.
+- 👀 I’m interested in Java, Spring Cloud, Microservice, Distrubted system, Kafka.
 - 🌱 I’m currently learning software engineering in ITMO.
 - 📫 How to reach me: siyuanhuang917@gmail.com ...
 
